@@ -1,4 +1,4 @@
-name: Action Java Run Tests on Pull Requests
+name: Action Java Run Test on Pull Requests
 on:
   pull_request:
 jobs:
